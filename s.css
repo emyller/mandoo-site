@@ -12,17 +12,17 @@ a
 #c
 {
 	background: url(pics/box.png);
-	height: 273px;
+	height: 173px;
 	margin: 10% auto;
-	padding: 30px;
+	padding: 130px 30px 30px 30px;
 	text-align: center;
 	width: 498px
 }
 #c h1
 {
+	display: none;
 	font-size: 52px;
-	margin: 0;
-	visibility: hidden
+	margin: 0
 }
 #c p
 {
