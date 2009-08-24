@@ -1,0 +1,34 @@
+html, body
+{
+	background: #000;
+	color: #fff;
+	font-family: "tahoma","trebuchet ms", "sans serif";
+	margin: 0
+}
+a
+{
+	text-decoration: none
+}
+#c
+{
+	background: url(pics/box.png);
+	height: 273px;
+	margin: 10% auto;
+	padding: 30px;
+	text-align: center;
+	width: 498px
+}
+#c h1
+{
+	font-size: 52px;
+	margin: 0;
+	visibility: hidden
+}
+#c p
+{
+	font-size: 14px
+}
+#c a
+{
+	color: #72a5e4;
+}
